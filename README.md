@@ -1,4 +1,3 @@
 # Unity-Pumpkins
-This is a 3D Unity game (similar to Roll-a-Ball) that I made as part of Awesome Tut's Unity Game Development course on Udemy.
-This contains additional bug fixes and should only be used for reference.
-Disclaimer: The textures and models used in this project all belong to Awesome Tuts and I do not own them in any way.
+This is a 3D Unity game in which you take control of a pumpkin and have to find a way past a clan of trolls to get to the gates of hell!!
+Disclaimer: The textures and models used in this project don't belong to me and I do not own them in any way
